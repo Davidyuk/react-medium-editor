@@ -6,7 +6,7 @@ module.exports = React.createClass({
 
   getInitialState() {
     return {
-      text: 'Etiam Fringilla Magna Quam'
+      text: ''
     };
   },
 
